@@ -1,0 +1,21 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "databricks-sql",
+        "address": {
+          "host": "adb-1512254365923519.19.azuredatabricks.net",
+          "path": "/sql/1.0/warehouses/034acaa09fd44d34"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {
+        "Catalog": "",
+        "Database": ""
+      },
+      "mode": "DirectQuery"
+    }
+  ]
+}
